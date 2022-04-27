@@ -1,0 +1,3 @@
+numero = input("digite um numero de 0 a 10 ---> ")
+while 0 > numero or 10 < numero:
+    numero = input("digite um numero de 0 a 10 ---> ")
